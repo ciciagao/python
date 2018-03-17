@@ -34,4 +34,5 @@ while True:
     print(client_data)
     conn.sendall('不要回答,不要回答,不要回答')
 
+
     conn.close()
